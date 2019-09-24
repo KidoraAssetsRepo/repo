@@ -26,11 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Origin: com.julioverne.appellancy
-Label: Appellancy
-Suite: stable
-Version: 1.1-20b
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Appellancy is a face id for old devices
+Package: com.julioverne.appellancy
+Version: 11.1.1-20
+Section: Tweaks
+Maintainer: Krzysio <krzysiek.dymowskio2.pl@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.appellancy_11_1.1-20b.deb
+Size: 3623
+MD5sum: 6ec175b926a05394b391c810408bf3cb
+Description: Get Face ID.
+Name: Appellancy
+Author: Krzysio <krzysiek.dymowskio2.pl@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.julioverne.appellancy

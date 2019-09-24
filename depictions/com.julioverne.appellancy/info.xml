@@ -1,0 +1,29 @@
+<package>
+	<id>com.julioverne.appellancy</id>
+	<name>Appellancy</name>
+	<version>11.1.1-20</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>appellancy</package>
+	</dependencies>
+	<shortDescription>Face ID for your oldest device. Firmware should be greater than 11.0</shortDescription>
+	<descriptionlist>
+		<description>Face ID for your oldest device.</description>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+		<change>Using OpenCV</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
