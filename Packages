@@ -26,3 +26,11 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Origin: com.julioverne.appellancy
+Label: Appellancy
+Suite: stable
+Version: 1.1-20b
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Appellancy is a face id for old devices
